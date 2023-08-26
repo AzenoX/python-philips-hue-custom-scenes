@@ -1,0 +1,6 @@
+PyAudio==0.2.13
+PyChromecast==2.3.0
+phue==1.1
+python-dotenv==1.0.0
+googlehomepush==0.1.0
+vosk==0.3.45
